@@ -3,7 +3,7 @@
 import sqlite3 as sqlite
 import tkinter as tk
 from tkinter import ttk
-#GUI Widgets
+#GUI Widgetss
 
 
 class EsperantoDict:
